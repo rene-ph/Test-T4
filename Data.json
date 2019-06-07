@@ -1,0 +1,30 @@
+{
+  "BD": [
+     {
+       "Nombre": "Externo",
+       "Campos": [
+         {
+           "Tipo": "string",
+           "Nombre": "Nombre"
+         },
+         {
+           "Tipo": "int",
+           "Nombre": "Edad"
+         }
+       ]
+     },
+     {
+       "Nombre": "Interno",
+       "Campos":  [
+        {
+          "Tipo": "string",
+          "Nombre": "Hobbie"
+        },
+        {
+          "Tipo": "string",
+          "Nombre": "Nivel"
+        }
+      ]
+     }
+  ]
+}
